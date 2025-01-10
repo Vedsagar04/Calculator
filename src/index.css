@@ -7,6 +7,11 @@ body {
   background-color: hsl(0, 0%, 95%);
 }
 
+.calculator h1 {
+  color: white;
+  text-align: center;
+}
+
 .calculator {
   font-family: Arial, Helvetica, sans-serif;
   background-color: hsl(0, 0%, 15%);
@@ -98,21 +103,7 @@ button:active {
   }
 
   .calculator {
-    padding: 10px; /* Added padding to the calculator for better spacing */
-  }
-}
-
-@media (max-width: 400px) {
-  #display {
-    font-size: 1.5rem; /* Further reduce font size for very small screens */
-  }
-  
-  button {
-    height: 65px; /* Smaller button height for very small screens */
-    font-size: 1.2rem; /* Further reduce font size for buttons */
-  }
-
-  .keys {
-    gap: 5px; /* Further reduce gap between buttons */
+    padding: 15px;
+    height:400px;
   }
 }
