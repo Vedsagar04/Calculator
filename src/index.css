@@ -90,12 +90,12 @@ button:active {
   #display {
     font-size: 2rem; 
     padding: 15px; 
-    padding-bottom: 10px;
+    margin-bottom: 10px;
   }
   
   button {
     height: 50px; 
-    font-size: 1.2rem; 
+    font-size: 1.5rem; 
   }
 
   .keys {
