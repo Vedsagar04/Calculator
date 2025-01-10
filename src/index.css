@@ -90,6 +90,7 @@ button:active {
   #display {
     font-size: 2rem; 
     padding: 15px; 
+    padding-bottom: 10px;
   }
   
   button {
@@ -98,7 +99,7 @@ button:active {
   }
 
   .keys {
-    gap: 5px; 
+    gap: 8px; 
     padding: 10px; 
   }
 
