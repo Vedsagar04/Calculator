@@ -88,22 +88,22 @@ button:active {
 /* Mobile responsiveness */
 @media (max-width: 600px) {
   #display {
-    font-size: 2rem; /* Smaller font size for mobile */
-    padding: 10px; /* Reduced padding */
+    font-size: 2rem; 
+    padding: 15px; 
   }
   
   button {
-    height: 50px; /* Smaller button height for mobile */
-    font-size: 1.2rem; /* Smaller font size for buttons */
+    height: 50px; 
+    font-size: 1.2rem; 
   }
 
   .keys {
-    gap: 5px; /* Reduced gap between buttons */
-    padding: 10px; /* Reduced padding */
+    gap: 5px; 
+    padding: 10px; 
   }
 
   .calculator {
     padding: 15px;
-    height:400px;
+    height:500px;
   }
 }
