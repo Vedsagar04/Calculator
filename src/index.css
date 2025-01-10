@@ -108,11 +108,11 @@ button:active {
   }
   
   button {
-    height: 45px; /* Smaller button height for very small screens */
-    font-size: 1rem; /* Further reduce font size for buttons */
+    height: 65px; /* Smaller button height for very small screens */
+    font-size: 1.2rem; /* Further reduce font size for buttons */
   }
 
   .keys {
-    gap: 3px; /* Further reduce gap between buttons */
+    gap: 5px; /* Further reduce gap between buttons */
   }
 }
